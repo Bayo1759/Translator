@@ -90,7 +90,7 @@
                     headers: {
                         "content-type": "application/x-www-form-urlencoded",
                         "Accept-Encoding": "application/gzip",
-                        "X-RapidAPI-Key": "RAPID_API_KEY",
+                        "X-RapidAPI-Key": "a39de9e64dmshba998bf31474104p1912b1jsn26af6a4e466a",
                         "X-RapidAPI-Host": "google-translate1.p.rapidapi.com",
                     },
                     body: new URLSearchParams({
